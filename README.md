@@ -1,1 +1,1 @@
-(https://propertyhub-web-trial.vercel.app)
+https://propertyhub-web-trial.vercel.app
